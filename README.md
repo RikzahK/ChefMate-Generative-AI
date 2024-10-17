@@ -1,4 +1,4 @@
-# Check Out Our Generative AI Project: ChefMate
+# Check Out Generative AI Project: ChefMate
 # 👩‍🍳 ChefMate: Your Culinary Companion
 ChefMate is an innovative generative AI model developed in collaboration with PartyRock, designed to revolutionize your cooking experience. This application generates personalized three-course meal recommendations based on your mood, dietary restrictions, and available ingredients.
 
